@@ -5,7 +5,7 @@ For training lightweight face recognition models and evaluating it's performance
 ## Built With
 -  Python
 -  Pytorch
--   
+  
 ### Prerequisites
 - Ensure you are running the scripts on a TPU device
   
