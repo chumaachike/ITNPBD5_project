@@ -7,8 +7,11 @@ For training lightweight face recognition models and evaluating it's performance
 -  Pytorch
 -   
 ### Prerequisites
-- Ensure you are running the scripts on a TPU device 
-
+- Ensure you are running the scripts on a TPU device
+  
+## Datasets
+- [CASIA WebFace](https://www.kaggle.com/datasets/debarghamitraroy/casia-webface)
+  
 ### Install 
 - facenet_pytorch
 - torchvision
