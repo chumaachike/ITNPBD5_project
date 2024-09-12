@@ -5,7 +5,7 @@ For training lightweight face recognition models and evaluating it's performance
 ## Built With
 -  Python
 -  Pytorch
--  
+-   
 ### Prerequisites
 - Ensure you are running the scripts on a TPU device 
 
@@ -16,10 +16,10 @@ For training lightweight face recognition models and evaluating it's performance
 - torchmetrics
 
 
-  ### Usage
-  1. Pick any of the the scripts you want to run
-  2. Upload the required modules from the resources file then run script
-  [tip] To ensure your model runs well, always restart your session after making changes that need to affect the modules
+### Usage
+1. Pick any of the the scripts you want to run
+2. Upload the required modules from the resources file then run script
+[tip] To ensure your model runs well, always restart your session after making changes that need to affect the modules
 
 ### Author
 👤 **Achike Chuma Edward**
